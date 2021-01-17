@@ -1,5 +1,5 @@
 // const signinPage = require("../pages/signin.page");
-//POM
+//POM wasn't utilised for this exercise
    
    describe('Zoopla homepage sign in', () => {
     it('should open the main url', () => {
